@@ -4,7 +4,7 @@
 </script>
 
 <a {href}>
-	<h2 class="font-firacode text-lg text-gray-light transition-all hover:text-red">
+	<h2 class="font-firacode text-gray-light transition-all hover:text-red">
 		<span class="pr-1 text-red">
 			{number}
 		</span>

@@ -1,11 +1,5 @@
 <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-	<mask
-		id="mask0_202_30"
-		style="mask-type:luminance"
-		maskUnits="userSpaceOnUse"
-		x="0"
-		y="0"
-	>
+	<mask id="mask0_202_30" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0">
 		<path d="M40 0H0V40H40V0Z" fill="white" />
 	</mask>
 	<g mask="url(#mask0_202_30)">

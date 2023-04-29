@@ -4,17 +4,15 @@
 	import Warning from '../icons/Warning.svelte';
 </script>
 
-<div class="h-screen w-full flex flex-col gap-4 justify-center items-center">
-    <div class="w-28 text-red">
-        <Warning />
-    </div>
-    <h1 class="font-inter text-red text-6xl font-bold">
-        {$page.status}
-    </h1>
-    <h2 class="font-firacode text-gray text-4xl font-bold pb-12">
-        {$page?.error?.message}
-    </h2>
-    <Button href='/'>
-        Go back home
-    </Button>
+<div class="flex h-screen w-full flex-col items-center justify-center gap-4">
+	<div class="w-28 text-red">
+		<Warning />
+	</div>
+	<h1 class="font-inter text-6xl font-bold text-red">
+		{$page.status}
+	</h1>
+	<h2 class="pb-12 font-firacode text-4xl font-bold text-gray">
+		{$page?.error?.message}
+	</h2>
+	<Button href="/">Go back home</Button>
 </div>
