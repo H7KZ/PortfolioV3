@@ -10,9 +10,9 @@
 			<div class="flex flex-col gap-2">
 				<Header number="01.">About Me</Header>
 				<p class="text-lg font-medium text-gray">
-					Greetings, my name is
+					Hi, I am
 					<span class="text-red"> Jan Komínek </span>
-					and I am a fullstack web developer with experience in SvelteKit, TailwindCSS, Typescript, and
+					and I am a fullstack web developer with expertise in SvelteKit, TailwindCSS, Typescript, and
 					ExpressJS, currently
 					<span class="text-red"> working at Precismo </span>
 					and
