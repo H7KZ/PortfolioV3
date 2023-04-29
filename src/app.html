@@ -98,6 +98,34 @@
 		<meta property="discord:image" content="https://kominekjan.cz/android-chrome-192x192.png" />
 		<meta property="discord:image:alt" content="K" />
 
+		<style>
+			/* ===== Scrollbar CSS ===== */
+			/* Firefox */
+			* {
+				scrollbar-width: auto;
+				scrollbar-color: #8a8a8a #1e1e1e;
+			}
+
+			/* Chrome, Edge, and Safari */
+			*::-webkit-scrollbar {
+				width: 20px;
+			}
+
+			*::-webkit-scrollbar-track {
+				background: #1e1e1e;
+			}
+
+			*::-webkit-scrollbar-thumb {
+				background-color: #8a8a8a;
+				border-radius: 20px;
+				border: 6px solid #1e1e1e;
+			}
+
+			html {
+				scroll-behavior: smooth;
+			}
+		</style>
+
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover" class="bg-gray-darken">

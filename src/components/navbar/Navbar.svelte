@@ -5,7 +5,7 @@
 	let isNavbarOpen = false;
 </script>
 
-<div class="absolute left-0 top-0 z-10 flex w-screen items-center justify-between px-16 pt-6">
+<div class="absolute left-0 top-0 z-10 flex w-full items-center justify-between px-16 pt-6">
 	<h1 class="select-none font-yellowtail text-6xl text-red">K</h1>
 	<div class="hidden justify-center gap-8 md:flex lg:gap-16 lg:pr-12">
 		<NavbarLink href="/#about" number="01.">About</NavbarLink>
