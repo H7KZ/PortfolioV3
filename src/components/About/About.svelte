@@ -3,8 +3,8 @@
 	import Header from '../portfolio/Header.svelte';
 </script>
 
-<div class="flex h-screen w-full items-center justify-center" id="about">
-	<div class="flex h-[36rem] flex-col gap-10 px-4 lg:flex-row">
+<div class="flex h-auto min-h-screen w-full items-center justify-center" id="about">
+	<div class="flex h-auto min-h-[36rem] flex-col gap-10 px-4 lg:flex-row">
 		<img src="/images/profile.svg" alt="Me" class="w-full max-w-[30rem]" />
 		<div class="flex h-full w-full max-w-[30rem] flex-col justify-between gap-8">
 			<div class="flex flex-col gap-2">

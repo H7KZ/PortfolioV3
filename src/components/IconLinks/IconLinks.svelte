@@ -33,7 +33,7 @@
 			<Steam />
 		</div>
 	</a>
-	<a href="mailto:jan.kominek.kmk@gmail.com" target="_blank">
+	<a href="mailto:contact@kominekjan.cz" target="_blank">
 		<div class="w-8 text-gray transition-all hover:text-red">
 			<Send />
 		</div>
