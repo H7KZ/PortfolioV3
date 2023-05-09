@@ -11,20 +11,20 @@
 		{
 			year: '2023',
 			experiences: [
-				{
-					firm: 'FIGURIQUE',
-					firmLink: 'https://figurique.com/',
-					icon: '/logos/Figurique.svg',
-					color: '#f59e0b',
-					position: 'Co-Founder | Lead Developer',
-					time: 'Part time',
-					start_date: new Date('2023-04-25'),
-					end_date: null,
-					location: 'Prague, Czech Republic',
-					work: 'Remote',
-					description: '',
-					skills: ['TailwindCSS', 'SvelteKit', 'TypeScript', 'ExpressJS', 'MongoDB']
-				},
+				// {
+				// 	firm: 'FIGURIQUE',
+				// 	firmLink: 'https://figurique.com/',
+				// 	icon: '/logos/Figurique.svg',
+				// 	color: '#f59e0b',
+				// 	position: 'Co-Founder | Lead Developer',
+				// 	time: 'Part time',
+				// 	start_date: new Date('2023-04-25'),
+				// 	end_date: null,
+				// 	location: 'Prague, Czech Republic',
+				// 	work: 'Remote',
+				// 	description: '',
+				// 	skills: ['TailwindCSS', 'SvelteKit', 'TypeScript', 'ExpressJS', 'MongoDB']
+				// },
 				{
 					firm: 'Precismo',
 					firmLink: 'https://precismo.com/',
