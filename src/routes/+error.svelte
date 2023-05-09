@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import Button from '../components/Portfolio/Button.svelte';
+	import Button from '../components/Global/Button.svelte';
 	import Warning from '../icons/Warning.svelte';
 </script>
 

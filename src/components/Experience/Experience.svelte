@@ -1,7 +1,7 @@
 <script lang="ts">
 	import ExperienceSection from './ExperienceSection.svelte';
 	import type { Experience } from '../../types/global';
-	import Header from '../portfolio/Header.svelte';
+	import Header from '../Global/Header.svelte';
 
 	const sections = [
 		{
