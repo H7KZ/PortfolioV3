@@ -1,6 +1,6 @@
 <script>
-	import Button from '../portfolio/Button.svelte';
-	import Header from '../portfolio/Header.svelte';
+	import Button from '../Portfolio/Button.svelte';
+	import Header from '../Portfolio/Header.svelte';
 </script>
 
 <div class="flex h-auto min-h-screen w-full items-center justify-center" id="about">

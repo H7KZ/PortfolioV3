@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Button from '../portfolio/Button.svelte';
+	import Button from '../Portfolio/Button.svelte';
 </script>
 
 <div class="flex w-full items-center justify-center pb-48 pt-60 lg:pt-32" id="contact">

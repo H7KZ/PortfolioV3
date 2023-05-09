@@ -18,7 +18,8 @@ export default {
 			fontFamily: {
 				yellowtail: ['Yellowtail', 'cursive'],
 				firacode: ['Fira Code', 'monospace'],
-				inter: ['Inter', 'sans-serif']
+				inter: ['Inter', 'sans-serif'],
+				montserrat: ['Montserrat', 'sans-serif']
 			}
 		}
 	},

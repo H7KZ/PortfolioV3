@@ -1,5 +1,5 @@
 <script>
-	import Button from '../portfolio/Button.svelte';
+	import Button from '../Portfolio/Button.svelte';
 </script>
 
 <div class="flex h-screen w-full items-center justify-center">
