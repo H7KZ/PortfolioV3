@@ -1,7 +1,7 @@
 <script>
 	import { page } from '$app/stores';
-	import Button from '../components/Global/Button.svelte';
-	import Warning from '../icons/Warning.svelte';
+	import Button from '../../components/Global/Button.svelte';
+	import Warning from '../../icons/Warning.svelte';
 </script>
 
 <div class="flex h-screen w-full flex-col items-center justify-center gap-4">

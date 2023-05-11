@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Burger from '../Global/Burger.svelte';
+	import Burger from './Burger.svelte';
 	import NavbarLink from './NavbarLink.svelte';
 
 	let isNavbarOpen = false;

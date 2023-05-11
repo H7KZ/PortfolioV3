@@ -2,6 +2,7 @@
 	"name": "portfoliov3",
 	"version": "0.0.1",
 	"private": true,
+	"type": "module",
 	"scripts": {
 		"upd": "pnpm update && pnpm upgrade && pnpm install",
 		"upd:f": "pnpm update --force && pnpm upgrade --force && pnpm install --force",
@@ -34,7 +35,6 @@
 		"typescript": "^5.0.4",
 		"vite": "^4.3.5"
 	},
-	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-cloudflare": "^2.2.2"
 	}
