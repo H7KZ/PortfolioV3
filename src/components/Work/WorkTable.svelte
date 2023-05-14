@@ -6,11 +6,11 @@
 	const workList = work.sort((a, b) => b.year.localeCompare(a.year));
 </script>
 
-<div class="relative overflow-x-auto">
+<div class="relative w-full overflow-x-scroll">
 	<table class="w-full text-left text-sm text-gray-light">
 		<thead class="font-inter text-xl text-gray">
 			<tr>
-				<th scope="col" class="px-4 py-2"> Year </th>
+				<th scope="col" class="px-4 py-2 max-sm:hidden"> Year </th>
 				<th scope="col" class="px-4 py-2"> Title </th>
 				<th scope="col" class="px-4 py-2 max-xl:hidden"> Made at </th>
 				<th scope="col" class="px-4 py-2 max-lg:hidden"> Skills </th>
@@ -20,7 +20,7 @@
 		<tbody>
 			{#each workList as work}
 				<tr class="font-firacode">
-					<th scope="row" class="px-5 py-3 font-medium text-red">
+					<th scope="row" class="px-5 py-3 font-medium text-red max-sm:hidden">
 						<p class="w-12 truncate">
 							{work.year}
 						</p>
