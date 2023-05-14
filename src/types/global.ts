@@ -12,3 +12,17 @@ export type Experience = {
 	description?: string;
 	skills: string[];
 };
+
+export type Work = {
+	title: string;
+	description?: string;
+	image?: string;
+	imagePosition?: 'left' | 'right';
+	skills: string[];
+	links?: {
+		github?: string;
+		website?: string;
+	};
+	year: string;
+	firm?: string;
+};
