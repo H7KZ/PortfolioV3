@@ -30,7 +30,7 @@ const sections: {
 				firmLink: 'https://precismo.com/',
 				icon: '/logos/Precismo.svg',
 				color: '#1d66f3',
-				position: 'Frontend Developer',
+				position: 'Fullstack Developer',
 				time: 'Part time',
 				start_date: new Date('2023-01-02'),
 				end_date: null,
