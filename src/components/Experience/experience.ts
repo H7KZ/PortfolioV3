@@ -68,7 +68,7 @@ const sections: {
 				position: 'Frontend Developer',
 				time: 'Part time',
 				start_date: new Date('2022-10-01'),
-				end_date: null,
+				end_date: new Date('2023-06-17'),
 				location: 'Prague, Czech Republic',
 				work: 'Remote',
 				description:
