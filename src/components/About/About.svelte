@@ -15,8 +15,6 @@
 					and I am a fullstack web developer with expertise in SvelteKit, TailwindCSS, Typescript, and
 					ExpressJS, currently
 					<span class="text-red"> working at Precismo </span>
-					and
-					<span class="text-red"> Haxagon </span>
 					. Working in a driven team is where I thrive, and I'm always eager to learn.
 					<br />
 					<br />

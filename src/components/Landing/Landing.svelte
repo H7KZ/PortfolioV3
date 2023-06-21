@@ -17,10 +17,6 @@
 			<a href="https://precismo.com" target="_blank" class="text-red transition-all hover:underline"
 				>Precismo</a
 			>
-			&
-			<a href="https://haxagon.cz" target="_blank" class="text-red transition-all hover:underline"
-				>Haxagon</a
-			>
 			.
 		</p>
 		<Button href="/#experience" target="">Check my experience!</Button>
