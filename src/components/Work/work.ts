@@ -15,16 +15,17 @@ const featured: Work[] = [
 		year: '2023'
 	},
 	{
-		title: 'Goalspire',
+		title: 'Disenchantment',
 		description:
-			"School's year project. Advanced To-Do and Goal List with smart algorithm for notifications. Project leader in the frontend development section.",
-		image: '/work/goalspire.png',
+			'Plugin for Minecraft server. Disenchantment is a plugin that allows you to disenchant items and get the enchantment book back. Built with SpigotAPI and Java.',
+		image: '/work/disenchantment.png',
 		imagePosition: 'left',
-		skills: ['SvelteKit', 'SCSS', 'TypeScript', 'Figma'],
+		skills: ['Java', 'SpigotAPI'],
 		links: {
-			website: 'https://goalspire.net'
+			github: 'https://github.com/H7KZ/Disenchantment',
+			website: 'https://www.spigotmc.org/resources/disenchantment.110741/'
 		},
-		year: '2022'
+		year: '2023'
 	},
 	{
 		title: 'My Portfolio v2.0',
@@ -43,6 +44,19 @@ const featured: Work[] = [
 
 const work: Work[] = [
 	...featured,
+	{
+		title: 'Goalspire',
+		description:
+			"School's year project. Advanced To-Do and Goal List with smart algorithm for notifications. Project leader in the frontend development section.",
+		image: '/work/goalspire.png',
+		imagePosition: 'left',
+		skills: ['SvelteKit', 'SCSS', 'TypeScript', 'Figma'],
+		links: {
+			website: 'https://goalspire.net'
+		},
+		firm: 'School',
+		year: '2022'
+	},
 	{
 		title: 'Weedly.cz',
 		skills: ['SvelteKit', 'TailwindCSS', 'TypeScript'],
