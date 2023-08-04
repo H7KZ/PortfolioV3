@@ -2,6 +2,27 @@ import type { Work } from '../../types/global';
 
 const featured: Work[] = [
 	{
+		title: 'FIGURIQUE',
+		description:
+			'Find high-quality 3D-printable figurines in a variety of genres at Your Figurique. Shop now and bring your favorite characters to life!',
+		image: '/work/figurique.png',
+		imagePosition: 'left',
+		skills: [
+			'SvelteKit',
+			'TypeScript',
+			'TailwindCSS',
+			'ExpressJS',
+			'MongoDB',
+			'Figma',
+			'Web Design',
+			'Logo Design'
+		],
+		links: {
+			website: 'https://figurique.com/'
+		},
+		year: '2023'
+	},
+	{
 		title: 'My Portfolio v3.0',
 		description:
 			'My current portfolio. I took a lot of inspiration from Brittany Chiang and her portfolio. Designed in Figma, then built in SvelteKit using TailwindCSS.',
@@ -26,19 +47,6 @@ const featured: Work[] = [
 			website: 'https://www.spigotmc.org/resources/disenchantment.110741/'
 		},
 		year: '2023'
-	},
-	{
-		title: 'My Portfolio v2.0',
-		description:
-			'My own previous portfolio. Designed in Figma and built in SvelteKit using TailwindCSS.',
-		image: '/work/portfolio2.png',
-		imagePosition: 'right',
-		skills: ['SvelteKit', 'TailwindCSS', 'Figma'],
-		links: {
-			github: 'https://github.com/H7KZ/PortfolioV2',
-			website: 'https://v2.kominekjan.cz'
-		},
-		year: '2022'
 	}
 ];
 
@@ -89,6 +97,19 @@ const work: Work[] = [
 		skills: ['SvelteKit', 'TailwindCSS', 'TypeScript'],
 		firm: 'Froneb',
 		year: '2021'
+	},
+	{
+		title: 'My Portfolio v2.0',
+		description:
+			'My own previous portfolio. Designed in Figma and built in SvelteKit using TailwindCSS.',
+		image: '/work/portfolio2.png',
+		imagePosition: 'right',
+		skills: ['SvelteKit', 'TailwindCSS', 'Figma'],
+		links: {
+			github: 'https://github.com/H7KZ/PortfolioV2',
+			website: 'https://v2.kominekjan.cz'
+		},
+		year: '2022'
 	}
 ];
 

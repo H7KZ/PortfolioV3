@@ -12,20 +12,6 @@ const sections: {
 		year: '2023',
 		experiences: [
 			{
-				firm: 'FIGURIQUE',
-				firmLink: 'https://figurique.com/',
-				icon: '/logos/Figurique.svg',
-				color: '#f28a2a',
-				position: 'Co-Founder | CTO | Lead Developer',
-				time: 'Part time',
-				start_date: new Date('2023-06-25'),
-				end_date: null,
-				location: 'Prague, Czech Republic',
-				work: 'Remote',
-				description: '',
-				skills: ['SvelteKit', 'TypeScript', 'TailwindCSS', 'ExpressJS', 'MongoDB', 'Figma']
-			},
-			{
 				firm: 'Precismo',
 				firmLink: 'https://precismo.com/',
 				icon: '/logos/Precismo.svg',
