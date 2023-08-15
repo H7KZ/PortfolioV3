@@ -12,6 +12,19 @@ const sections: {
 		year: '2023',
 		experiences: [
 			{
+				firm: 'IONT Tech',
+				firmLink: 'https://iont.tech/',
+				icon: '/logos/IONTTech.svg',
+				color: '#169bd7',
+				position: 'Frontend Developer',
+				time: 'Part time',
+				start_date: new Date('2023-08-15'),
+				end_date: null,
+				location: 'Prague, Czech Republic',
+				work: 'Remote',
+				skills: ['UnoCSS', 'TypeScript', 'VueJS']
+			},
+			{
 				firm: 'Precismo',
 				firmLink: 'https://precismo.com/',
 				icon: '/logos/Precismo.svg',
