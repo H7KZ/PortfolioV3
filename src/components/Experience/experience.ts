@@ -16,13 +16,13 @@ const sections: {
 				firmLink: 'https://iont.tech/',
 				icon: '/logos/IONTTech.svg',
 				color: '#169bd7',
-				position: 'Frontend Developer',
+				position: 'Lead Fullstack Developer',
 				time: 'Part time',
 				start_date: new Date('2023-08-15'),
 				end_date: null,
 				location: 'Prague, Czech Republic',
 				work: 'Remote',
-				skills: ['UnoCSS', 'TypeScript', 'VueJS']
+				skills: ['SvelteKit', 'TypeScript', 'Fastify', 'TailwindCSS', 'CI/CD']
 			},
 			{
 				firm: 'Precismo',
@@ -37,7 +37,7 @@ const sections: {
 				work: 'Remote / Office',
 				description:
 					'Develop and maintain private web applications for customers of Precismo.<br /><br />Work in well driven environment and huge team of developers.',
-				skills: ['ReactJS', 'JavaScript', 'MaterialUI', 'Playwright']
+				skills: ['ReactJS', 'JavaScript', 'MaterialUI', 'Playwright', 'Agile']
 			},
 			{
 				firm: 'Froneb',
