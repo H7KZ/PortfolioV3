@@ -13,9 +13,9 @@
 					Hi, I am
 					<span class="text-red"> Jan Komínek </span>
 					and I am a fullstack web developer with expertise in SvelteKit, TailwindCSS, Typescript, and
-					ExpressJS, currently
-					<span class="text-red"> working at Precismo </span>
-					. Working in a driven team is where I thrive, and I'm always eager to learn.
+					Fastify, currently
+					<span class="text-red"> working at IONT tech</span>.
+					Working in a driven team is where I thrive, and I'm always eager to learn.
 					<br />
 					<br />
 					I enjoy sports and spending time with my loved ones. Concurrently, I am

@@ -12,12 +12,9 @@
 			Fullstack web developer.
 		</h2>
 		<p class="max-w-lg pb-8 font-inter text-sm text-gray md:text-base lg:text-lg">
-			Passionate Fullstack Web Developer with expertise in SvelteKit and TailwindCSS. Building
+			Passionate Lead Fullstack Web Developer with expertise in SvelteKit and TailwindCSS. Building
 			beautiful & secure web applications at
-			<a href="https://precismo.com" target="_blank" class="text-red transition-all hover:underline"
-				>Precismo</a
-			>
-			.
+			<a href="https://iont.tech" target="_blank" class="text-red transition-all hover:underline">IONT tech</a>.
 		</p>
 		<Button href="/#experience" target="">Check my experience!</Button>
 	</div>
