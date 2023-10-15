@@ -32,7 +32,7 @@ const sections: {
 				position: 'Fullstack Developer',
 				time: 'Part time',
 				start_date: new Date('2023-01-02'),
-				end_date: null,
+				end_date: new Date('2023-10-13'),
 				location: 'Prague, Czech Republic',
 				work: 'Remote / Office',
 				description:
